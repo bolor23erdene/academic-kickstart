@@ -12,3 +12,5 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
+
+[Alt text for my gif](/images/dcnn2gcnn2.gif)
