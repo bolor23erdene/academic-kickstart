@@ -13,4 +13,3 @@ title = "Biography"
 author = "admin"
 +++
 
-[Alt text for my gif](/images/dcnn2gcnn2.gif)
